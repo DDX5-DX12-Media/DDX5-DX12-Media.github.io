@@ -1,0 +1,38 @@
+header{
+    background-color: darkslategrey;
+    color: dodgerblue;
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    padding: 50px;
+}
+a{
+    background-color: darkslategrey;
+    color: dodgerblue;
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+body{
+    background-color: darkslategrey;
+    color: aliceblue;
+    font-size: x-large;
+    text-decoration: none;
+    text-align: center;
+}
+h3
+{
+    color: aquamarine
+}
+.Imp{
+    color: red;
+}
+h2{
+    color: chartreuse;
+}
+.Lnk{
+    color: dodgerblue;
+    padding: 0%;
+}
